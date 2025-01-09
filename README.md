@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Verma</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on **Netflix Deployment Project**
+- 🔭 I’m currently working on **MicroService-3Tier-Project**
 
 - 🌱 I’m currently learning **DevOps, AWS, Linux, FinOps, Security**
 
